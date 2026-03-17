@@ -19,4 +19,4 @@ Developed a backend system for an e-commerce platform using Node.js and Express.
 2. Start server using `node server.js`
 
 ## 👩‍💻 Author
-Tugutoori Sahasra Deepthi
+Tungutoori Sahasra Deepthi
